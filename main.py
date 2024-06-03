@@ -294,8 +294,8 @@ def get_or_create_event_loop():
 
 @st.cache_resource
 def create_datastax_connection():
-    cloud_config = {'secure_connect_bundle': r"secure-connect-nlp.zip"}
-    with open(r"malviyaayush2609@gmail.com-token.json") as f:
+    cloud_config = {'secure_connect_bundle': "secure-connect-nlp.zip"}
+    with open("malviyaayush2609@gmail.com-token.json") as f:
         secrets = json.load(f)
     CLIENT_ID = secrets["clientId"]
     CLIENT_SECRET = secrets["secret"]
