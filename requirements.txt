@@ -15,12 +15,11 @@ boltons==23.0.0
 bottle==0.12.25  
 bottle-websocket==0.2.9  
 brotlipy==0.7.0  
-ca-certificates==2023.05.30  
 cachetools==5.3.2  
 cassandra-driver==3.29.1  
 cassio==0.1.7  
 catalogue==2.0.10  
-certifi==2023.7.22  
+
 cffi==1.15.1  
 charset-normalizer==2.0.4  
 chromedriver-autoinstaller==0.6.2  
