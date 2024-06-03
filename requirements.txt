@@ -169,7 +169,7 @@ rpds-py==0.18.1
 ruamel.yaml==0.17.21  
 ruamel.yaml.clib==0.2.6  
 scipy==1.13.0  
-selenium==4.7.2  
+
 setuptools==69.5.1  
 simplejson==3.19.2  
 six==1.16.0  
