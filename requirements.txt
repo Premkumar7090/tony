@@ -106,7 +106,7 @@ markdown-it-py==3.0.0
 markupsafe==2.1.5  
 marshmallow==3.21.2  
 mdurl==0.1.2  
-menuinst==1.4.19  
+ 
 mistune==3.0.2  
 multidict==6.0.5  
 murmurhash==1.0.10  
